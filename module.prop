@@ -1,0 +1,6 @@
+id=pushincharge
+name=PushinCharge
+version=1.0
+versionCode=1
+author=Codex
+description=Switch charging type between Adaptive and 80% based on time
